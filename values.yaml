@@ -1,0 +1,4 @@
+EXTERNAL_PORT: 80
+UI_REPLICAS:  1
+REVISION_HISTORY_LIMIT: 3
+UI_IMAGE: gcr.io/heptio-images/ks-guestbook-demo:0.2
